@@ -21,28 +21,28 @@ Screenshots
 ----------
 * **Home**<br>
 <p float="left">
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/Home.jpg" alt="Blogs" width="200dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/blogDetail.jpg" alt="Blog detail" width="200dp" height="400dp">
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/Home.jpg" alt="Blogs" width="260dp" height="450dp">          
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/blogDetail.jpg" alt="Blog detail" width="260dp" height="450dp">
 </p>
 
 * **Events**<br>
 <p float="left">
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/Events.jpg" alt="Events" width="200dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/EventDetail.jpg" alt="Event detail" width="200dp" height="400dp">
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/roadmapclosed.jpg" alt="Roadmap" width="200dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/roadmapopen.jpg" alt="Roadmap closed" width="200dp" height="400dp">
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/Events.jpg" alt="Events" width="260dp" height="450dp">          
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/EventDetail.jpg" alt="Event detail" width="260dp" height="450dp">
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/roadmapclosed.jpg" alt="Roadmap" width="260dp" height="450dp">          
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/roadmapopen.jpg" alt="Roadmap closed" width="260dp" height="450dp">
 </p>
 
 * **Chats**<br>
 <p float="left">
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/chat.jpg" alt="Chats" width="200dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/chatdetail.jpg" alt="Chat detail" width="200dp" height="400dp">
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/chat.jpg" alt="Chats" width="260dp" height="450dp">          
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/chatdetail.jpg" alt="Chat detail" width="260dp" height="450dp">
 </p>
 
 * **Profile**<br>
 <p float="left">
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/profilemy.jpg" alt="My profile" width="200dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/profileother.jpg" alt="Other profile" width="200dp" height="400dp">
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/profilemy.jpg" alt="My profile" width="260dp" height="450dp">          
+<img src="https://github.com/Kashish-Sharma/TheNetwork-open/blob/master/Screenshots/profileother.jpg" alt="Other profile" width="260dp" height="450dp">
 </p>
 
 External libraries used
