@@ -11,7 +11,7 @@ Before you continue
 
 Description
 ---------
-TheNetwork is a blog cum chat app. It's completely built using firebase.
+TheNetwork is a blog cum chat app. It's built using firebase.
 Users can post, comment, like and bookmark the blogs, also users can send follow requests to connect with people.
 Users can create events and also prepare an event roadmap.
 Pagination for realtime data is also included in chats, blogs and events.
